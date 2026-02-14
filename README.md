@@ -20,7 +20,9 @@
 ### 개발자 정보
 
 * **개발자**: sung-ho-oh
-* **저장소**: expert-talent-management
+* **GitHub**: [sung-ho-oh](https://github.com/sung-ho-oh)
+* **LinkedIn**: [sung-ho-oh](https://www.linkedin.com/in/sung-ho-oh-07011152)
+* **저장소**: [expert-talent-management](https://github.com/sung-ho-oh/expert-talent-management)
 
 ---
 
