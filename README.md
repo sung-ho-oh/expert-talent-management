@@ -10,6 +10,20 @@
 
 ---
 
+## 📁 주요 파일
+
+본 프로젝트의 핵심 파일들입니다:
+
+* **[Code.gs](./Code.gs)** - Google Apps Script 서버 사이드 코드
+* **[appsscript.json](./appsscript.json)** - 프로젝트 매니페스트 및 OAuth 권한 설정
+
+### 개발자 정보
+
+* **개발자**: sung-ho-oh
+* **저장소**: expert-talent-management
+
+---
+
 ## 🛠 실무적 기술 포인트 (Technical Highlights)
 
 ### 1. 이미지 렌더링 보안 이슈 해결 (Base64 인코딩)
